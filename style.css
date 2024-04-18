@@ -38,3 +38,12 @@ body{
 .titulo-escola{
     padding: 24px 0;
 }
+.img-estudante{
+    width:120px;
+}
+.icone-estudante{
+    width: 30px;
+}
+.div-estudante{
+    text-align: center;
+}
