@@ -46,4 +46,12 @@ body{
 }
 .div-estudante{
     text-align: center;
+    
+}
+.estudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+.estudante-titulo{
+    text-align: center;
 }
